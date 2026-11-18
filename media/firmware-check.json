@@ -1,0 +1,17 @@
+{
+  "id": "BB-054",
+  "source": "Local on-device computation using editable numeric inputs.",
+  "scenario": "With 180 g flour instead of 300 g, water falls to 126 g, salt to 3.6 g and yeast to 1.8 g.",
+  "keys": [
+    "up",
+    "down",
+    "ok",
+    "up",
+    "down",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 22,
+  "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 84.7 of 128 KiB",
+  "sha256": "05881bbda2b5ffb21ba80f3f9aeb8934cdfe944f7a51397ac2454457ba1e29ed"
+}

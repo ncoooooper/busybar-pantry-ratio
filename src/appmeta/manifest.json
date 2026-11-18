@@ -4,6 +4,6 @@
   "name": "Pantry Ratio",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Pantry Ratio",
+  "description": "Scale a recipe to the amount of its limiting ingredient and see each new quantity.",
   "author": "ncoooooper"
 }
