@@ -67,4 +67,4 @@ const fields=[
     "step": 1
   }
 ];
-worksheet({name:"Pantry Ratio",fields,calculate,accent:"#ECA64C",motion:{"motif":"pour","color":"#ECA64C","shine":"#FFF0BB"}});
+worksheet({name:"Pantry Ratio",fields,calculate,accent:"#ECA64C",motion:{enabled:false}});
