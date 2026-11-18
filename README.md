@@ -6,7 +6,7 @@ With 180 g flour instead of 300 g, water falls to 126 g, salt to 3.6 g and yeast
 
 Turn the wheel to browse results. Click to edit inputs, turn to change the selected value, click to select the next parameter, and press Start to return to results. Hold the wheel button in the editor to restore that parameter's starting value. Parameters persist on this device.
 
-Inputs: Base flour (1 to 5000 g), Flour on hand (0 to 5000 g), Base water (0 to 5000 g), Base salt (0 to 100 g), Base yeast (0 to 100 g).
+Enter the original amounts of flour, water, salt and yeast. Set how much of each you have. Leave any optional water, salt or yeast stock at -1 to ignore its limit. The smallest stock-to-recipe ratio determines the batch. Zero stock for a required ingredient produces a zero-sized batch. A zero-gram ingredient in the original recipe does not limit the batch.
 
 ## Run locally
 

@@ -1,7 +1,7 @@
 {
   "id": "BB-054",
   "source": "Local on-device computation using editable numeric inputs.",
-  "scenario": "With 180 g flour instead of 300 g, water falls to 126 g, salt to 3.6 g and yeast to 1.8 g.",
+  "scenario": "180 g of a required 300 g flour gives 60% of the recipe. Independent checks selected water, salt and zero yeast as the limiting supply.",
   "keys": [
     "up",
     "down",
@@ -12,6 +12,6 @@
   ],
   "frames": 54,
   "distinct_frames": 22,
-  "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 84.6 of 128 KiB",
-  "sha256": "7f5ecb2744e3b60c66a8382697fa8405dec4c4ff6bd06109bf17dd3ecdc46860"
+  "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 85.4 of 128 KiB",
+  "sha256": "6097a80c5f19a0e7a160e4c8d57a305172772548c3d197f7aed6f7a71402f379"
 }

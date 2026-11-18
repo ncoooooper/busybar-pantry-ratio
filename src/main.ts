@@ -41,6 +41,30 @@ const fields=[
     "min": 0,
     "max": 100,
     "step": 1
+  },
+  {
+    "name": "Water stock or -1",
+    "unit": "g",
+    "initial": -1,
+    "min": -1,
+    "max": 5000,
+    "step": 1
+  },
+  {
+    "name": "Salt stock or -1",
+    "unit": "g",
+    "initial": -1,
+    "min": -1,
+    "max": 300,
+    "step": 1
+  },
+  {
+    "name": "Yeast stock or -1",
+    "unit": "g",
+    "initial": -1,
+    "min": -1,
+    "max": 300,
+    "step": 1
   }
 ];
 worksheet({name:"Pantry Ratio",fields,calculate,accent:"#ECA64C",motion:{"motif":"pour","color":"#ECA64C","shine":"#FFF0BB"}});
