@@ -1,0 +1,61 @@
+{
+  "app": "busybar-pantry-ratio",
+  "sha256": "184bce8c7696c74d3bf8b2305abff57697cc914170f15fd510f14864cd6c27cb",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.pantryratio",
+    "sha256": "184bce8c7696c74d3bf8b2305abff57697cc914170f15fd510f14864cd6c27cb",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 93.3,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
+  "firmware": "1.3.1",
+  "cell": 16,
+  "lit": 14,
+  "front": [
+    72,
+    16
+  ],
+  "rear": [
+    160,
+    80
+  ],
+  "captures": [
+    {
+      "mode": "classic",
+      "guides": [
+        "inspect-scaled-flour",
+        "edit-base-flour"
+      ],
+      "tour": "screen-transitions",
+      "input": [
+        [
+          "up"
+        ],
+        [
+          "down",
+          "ok",
+          "up",
+          "down",
+          "start"
+        ],
+        [
+          "down",
+          "up",
+          "ok"
+        ]
+      ],
+      "distinct_frames": [
+        8,
+        31,
+        57
+      ],
+      "rear_frames": 10,
+      "rear_tour": "screen-transitions-rear",
+      "exit": "finished"
+    }
+  ]
+}

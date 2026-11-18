@@ -1,7 +1,7 @@
 {
   "name": "busybar-pantry-ratio",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Scale a recipe to the amount of its limiting ingredient and see each new quantity.",
   "author": "ncoooooper",
   "type": "module",

@@ -2,5 +2,5 @@
   "category": "utilities",
   "short_description": "Scale a recipe to the amount of its limiting ingredient and see each new quantity.",
   "description": "Scale a recipe to the amount of its limiting ingredient and see each new quantity. With 180 g flour instead of 300 g, water falls to 126 g, salt to 3.6 g and yeast to 1.8 g.",
-  "changelog": "First public version."
+  "changelog": "New screen transitions and high-contrast LED previews."
 }
