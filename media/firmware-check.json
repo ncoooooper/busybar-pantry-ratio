@@ -12,6 +12,6 @@
   ],
   "frames": 54,
   "distinct_frames": 22,
-  "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 84.7 of 128 KiB",
-  "sha256": "05881bbda2b5ffb21ba80f3f9aeb8934cdfe944f7a51397ac2454457ba1e29ed"
+  "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 84.6 of 128 KiB",
+  "sha256": "7f5ecb2744e3b60c66a8382697fa8405dec4c4ff6bd06109bf17dd3ecdc46860"
 }
