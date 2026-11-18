@@ -13,5 +13,27 @@
   "frames": 54,
   "distinct_frames": 22,
   "exit": "App io.ncoooooper.pantryratio exited: finished; heap peak 85.4 of 128 KiB",
-  "sha256": "6097a80c5f19a0e7a160e4c8d57a305172772548c3d197f7aed6f7a71402f379"
+  "sha256": "8a0afd1807fd63c8a41369693ca006af3b5181756866203023299c348d7f297f",
+  "display_test": {
+    "firmware": "1.3.1",
+    "input": "On-device controls",
+    "keys": [
+      [
+        "up"
+      ],
+      [
+        "down",
+        "ok",
+        "up",
+        "down",
+        "start"
+      ]
+    ],
+    "frames": 160,
+    "distinct_by_flow": [
+      7,
+      26
+    ],
+    "exit": "App io.btype.pantryratio exited: finished; heap peak 90.5 of 128 KiB"
+  }
 }
